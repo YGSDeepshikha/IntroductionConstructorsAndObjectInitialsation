@@ -14,11 +14,18 @@ A C++ application developed to demonstrate fundamental Object-Oriented Programmi
 ## How to Build & Run
 
 1. Clone the repository:
-git clone [https://github.com/YGSDeepshikha/IntroductionConstructorsAndObjectInitialisation.git](https://github.com/YGSDeepshikha/IntroductionConstructorsAndObjectInitialisation.git)
+```bash
+git clone https://github.com/YGSDeepshikha/IntroductionConstructorsAndObjectInitialisation.git
+```
 
 2. Compile the source file:
+```bash
 g++ main.cpp -o library_system
+```
 
 3. Run the application:
+```bash
 ./library_system
+```
+
 
