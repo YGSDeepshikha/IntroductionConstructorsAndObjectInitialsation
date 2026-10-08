@@ -12,8 +12,11 @@ A C++ application developed to demonstrate fundamental Object-Oriented Programmi
 - **Compiler:** `g++` / GCC or any standard C++ compiler
 
 ## How to Build & Run
+
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YGSDeepshikha/IntroductionConstructorsAndObjectInitialisation.git](https://github.com/YGSDeepshikha/IntroductionConstructorsAndObjectInitialisation.git)
-   g++ main.cpp -o library_system
+```bash
+git clone [https://github.com/YGSDeepshikha/IntroductionConstructorsAndObjectInitialisation.git](https://github.com/YGSDeepshikha/IntroductionConstructorsAndObjectInitialisation.git)
+
+g++ main.cpp -o library_system
+
 ./library_system
